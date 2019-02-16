@@ -1,0 +1,22 @@
+$Recycle.Bin
+82ace7d6-0197-474d-bf4b-a2043e72329b
+Adobe
+Autodesk
+Config.Msi
+Documents and Settings
+hp
+inetpub
+Intel
+New folder
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+SWSetup
+System Volume Information
+SYSTEM.SAV
+Temp
+Users
+Windows
